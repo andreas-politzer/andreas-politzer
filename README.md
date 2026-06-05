@@ -56,10 +56,20 @@ Currently developing the skills to make that happen.
 
 ---
 
-## Certificates & Badges
+## 🎓 Verified Credentials
 
-*Coming soon.*
-
+<table>
+  <tr>
+    <td><b>IBM & KI-Campus</b></td>
+    <td>Foundations of Artificial Intelligence, ML/DL & NLP</td>
+    <td><a href="https://moodle.ki-campus.org/mod/customcert/verify_certificate.php?code=3YkhrlaJ5z"><code>Verification: 3YkhrlaJ5z</code></a></td>
+  </tr>
+  <tr>
+    <td><b>LinkedIn Learning</b></td>
+    <td>The Data Science of Experimental Design (A/B Testing)</td>
+    <td><a href="https://www.linkedin.com/learning/certificates/577cc38a01373603aca9def5789797aceaac9aba5f7391ac45934700427e62f8"><code>License: 577cc38a...</code></a></td>
+  </tr>
+</table>
 ---
 
 hello@velonautics.com
