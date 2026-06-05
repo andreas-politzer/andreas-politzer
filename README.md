@@ -35,7 +35,6 @@ Currently developing the skills to make that happen.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| Velonaut *(private)* | Maritime carbon compliance platform — EU ETS & FuelEU Maritime | Python, Streamlit, SQLite |
 | [Velonaut Platform](https://github.com/Velonaut1974/velonaut-platform) | Maritime carbon compliance infrastructure — EU ETS & FuelEU Maritime | Python · Ed25519 · Event Sourcing |
 | [WBS Drive Sync](https://github.com/Velonaut1974/WBS-Google-Drive-Sync) | Desktop tool to sync Google Drive folders locally | Python, customtkinter |
 
