@@ -3,7 +3,7 @@
 
 # Hi, I'm Andreas
 
-Data Science & AI student at **WBS Coding School** in Hamburg, building things I find genuinely interesting — from maritime carbon compliance platforms to desktop automation tools.
+Data Science & AI student at **WBS Coding School**, building things I find genuinely interesting — from maritime carbon compliance platforms to desktop automation tools.
 
 ---
 
