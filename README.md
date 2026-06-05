@@ -41,7 +41,6 @@ Data Science & AI student at **WBS Coding School**, building things I find genui
 ## GitHub Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Velonaut1974&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="160" src="https://streak-stats.demolab.com?user=Velonaut1974&theme=tokyonight&hide_border=true" />
 </p>
 
