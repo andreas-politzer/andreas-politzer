@@ -28,8 +28,8 @@ Data Science & AI student at **WBS Coding School**, building things I find genui
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🚢 Velonaut *(private)* | Maritime carbon compliance platform — EU ETS & FuelEU Maritime | Python, Streamlit, SQLite |
-| 🗂 [WBS Drive Sync](https://github.com/Velonaut1974/WBS-Google-Drive-Sync) | Desktop tool to sync Google Drive folders locally | Python, customtkinter |
+| Velonaut *(private)* | Maritime carbon compliance platform — EU ETS & FuelEU Maritime | Python, Streamlit, SQLite |
+| [WBS Drive Sync](https://github.com/Velonaut1974/WBS-Google-Drive-Sync) | Desktop tool to sync Google Drive folders locally | Python, customtkinter |
 
 ---
 
@@ -56,4 +56,4 @@ Data Science & AI student at **WBS Coding School**, building things I find genui
 
 ---
 
-📫 hello@velonautics.com
+hello@velonautics.com
