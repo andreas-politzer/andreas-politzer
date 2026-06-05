@@ -56,7 +56,7 @@ Currently developing the skills to make that happen.
 
 ---
 
-## 🎓 Verified Credentials
+## Verified Credentials
 
 <table>
   <tr>
