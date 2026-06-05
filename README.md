@@ -3,7 +3,9 @@
 
 # Hi, I'm Andreas
 
-Data Science & AI student at **WBS Coding School**, building things I find genuinely interesting — from maritime carbon compliance platforms to desktop automation tools.
+Interested in the intersection of data, sustainability and social impact — 
+from decarbonizing maritime transport to building AI tools for NGOs. 
+Currently developing the skills to make that happen.
 
 ---
 
