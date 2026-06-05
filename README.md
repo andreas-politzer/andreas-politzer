@@ -62,12 +62,12 @@ Currently developing the skills to make that happen.
   <tr>
     <td><b>IBM & KI-Campus</b></td>
     <td>Foundations of Artificial Intelligence, ML/DL & NLP</td>
-    <td><a href="Micro-Degree Zertifikat - Micro-Degree_Zertifikat.pdf" target="_blank"><code>Zertifikat öffnen (PDF)</code></a></td>
+    <td><a href="Micro-Degree Zertifikat - Micro-Degree_Zertifikat.pdf" target="_blank"><code>View Certificate (PDF)</code></a></td>
   </tr>
   <tr>
     <td><b>LinkedIn Learning</b></td>
     <td>The Data Science of Experimental Design (A/B Testing)</td>
-    <td><a href="Abschlusszertifikat_The Data Science of Experimental Design.pdf" target="_blank"><code>Zertifikat öffnen (PDF)</code></a></td>
+    <td><a href="Abschlusszertifikat_The Data Science of Experimental Design.pdf" target="_blank"><code>View Certificate (PDF)</code></a></td>
   </tr>
 </table>
 
