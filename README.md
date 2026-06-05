@@ -62,14 +62,15 @@ Currently developing the skills to make that happen.
   <tr>
     <td><b>IBM & KI-Campus</b></td>
     <td>Foundations of Artificial Intelligence, ML/DL & NLP</td>
-    <td><a href="https://moodle.ki-campus.org/mod/customcert/verify_certificate.php?code=3YkhrlaJ5z"><code>Verification: 3YkhrlaJ5z</code></a></td>
+    <td><a href="https://github.com/andreas-politzer/andreas-politzer/blob/main/credentials/Micro-Degree_Zertifikat.pdf" target="_blank"><code>Zertifikat öffnen (PDF)</code></a></td>
   </tr>
   <tr>
     <td><b>LinkedIn Learning</b></td>
     <td>The Data Science of Experimental Design (A/B Testing)</td>
-    <td><a href="https://www.linkedin.com/learning/certificates/577cc38a01373603aca9def5789797aceaac9aba5f7391ac45934700427e62f8"><code>License: 577cc38a...</code></a></td>
+    <td><a href="https://github.com/andreas-politzer/andreas-politzer/blob/main/credentials/Abschlusszertifikat_The_Data_Science_of_Experimental_Design.pdf" target="_blank"><code>Zertifikat öffnen (PDF)</code></a></td>
   </tr>
 </table>
+
 ---
 
 hello@velonautics.com
