@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0e7490&height=180&section=header&text=Hi,%20I'm%20Andreas%20👋&fontSize=48&fontColor=ffffff&desc=Data%20Scientist%20in%20Training%20·%20Hamburg&descSize=18&descAlignY=75)
 
-I'm a Data Science & AI student at **WBS Coding School** in Hamburg, building things I find genuinely interesting — from maritime carbon compliance platforms to desktop automation tools.
+I'm a Data Science & AI student at **WBS Coding School** in Berlin, building things I find genuinely interesting — from maritime carbon compliance platforms to desktop automation tools.
 
 ---
 
