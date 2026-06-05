@@ -1,4 +1,4 @@
-![Hamburg Harbor](images/hamburg_banner.jpg)
+![Hamburg Harbor](hamburg_banner.jpg)
 <sub>Photo by [Wolfgang Weiser](https://unsplash.com/de/@hamburgmeinefreundin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/de/fotos/ein-grosses-frachtschiff-legte-bei-einbruch-der-dammerung-in-einem-belebten-hafen-an-jSBIsG2MQgU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</sub>
 
 # Hi, I'm Andreas
