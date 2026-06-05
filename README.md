@@ -1,6 +1,6 @@
 ![Hamburg Harbor](hamburg_banner.jpg)
 <sub>Photo by [Wolfgang Weiser](https://unsplash.com/de/@hamburgmeinefreundin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/de/fotos/ein-grosses-frachtschiff-legte-bei-einbruch-der-dammerung-in-einem-belebten-hafen-an-jSBIsG2MQgU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</sub>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=0e7490&lines=Data+Scientist+in+Training;Building+Maritime+Compliance+Infrastructure;Hamburg+%7C+WBS+Coding+School)](https://git.io/typing-svg)
 # Hi, I'm Andreas
 
 Interested in the intersection of data, sustainability and social impact — 
