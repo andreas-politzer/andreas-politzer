@@ -1,7 +1,7 @@
 ![Hamburg Harbor](hamburg_banner.jpg)
 <sub>Photo by [Wolfgang Weiser](https://unsplash.com/de/@hamburgmeinefreundin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/de/fotos/ein-grosses-frachtschiff-legte-bei-einbruch-der-dammerung-in-einem-belebten-hafen-an-jSBIsG2MQgU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</sub>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&color=39FF14&background=00000000&center=false&vCenter=false&repeat=true&width=600&lines=Hi+I'm+Andreas.Data+Scientist++AI+in+Training.WBS+Coding+School+Berlin.Building+things+that+matter.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&color=39FF14&background=00000000&center=false&vCenter=false&repeat=true&width=600&lines=Hi+I'm+Andreas. Data+Scientist++AI+in+Training.WBS+Coding+School+Berlin.)](https://git.io/typing-svg)
 
 Interested in the intersection of data, sustainability and social impact — 
 from decarbonizing maritime transport to building AI tools for NGOs. 
