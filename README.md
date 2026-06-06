@@ -63,12 +63,12 @@ Currently developing the skills to make that happen.
   <tr>
     <td><b>IBM & KI-Campus</b></td>
     <td>IBM-Grundlagen der Künstlichen Intelligenz (Maschinelles Lernen, NLP & KI-Ethik)</td>
-    <td><a href="Micro-Degree Zertifikat - Micro-Degree_Zertifikat.pdf"><code>Verification: 3YkhrlaJ5z</code></a></td>
+    <td><a href="Micro-Degree Zertifikat - Micro-Degree_Zertifikat.pdf"><code>View PDF Certificate</code></a></td>
   </tr>
   <tr>
     <td><b>LinkedIn Learning</b></td>
     <td>The Data Science of Experimental Design (A/B Testing & Predictive Analytics)</td>
-    <td><a href="https://github.com/andreas-politzer/andreas-politzer/blob/main/credentials/Abschlusszertifikat_The_Data_Science_of_Experimental_Design.pdf" target="_blank"><code>View PDF Certificate</code></a></td>
+    <td><a href="Abschlusszertifikat_The Data Science of Experimental Design.pdf" target="_blank"><code>View PDF Certificate</code></a></td>
   </tr>
 </table>
 
