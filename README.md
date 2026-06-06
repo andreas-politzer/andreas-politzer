@@ -35,8 +35,9 @@ Currently developing the skills to make that happen.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Velonaut Platform](https://github.com/Velonaut1974/velonaut-platform) | Maritime carbon compliance infrastructure — EU ETS & FuelEU Maritime | Python · Ed25519 · Event Sourcing |
-| [WBS Drive Sync](https://github.com/Velonaut1974/WBS-Google-Drive-Sync) | Desktop tool to sync Google Drive folders locally | Python, customtkinter |
+| [Velonaut Platform](https://github.com/andreas-politzer/velonaut-platform) | Maritime carbon compliance infrastructure — EU ETS & FuelEU Maritime | Python · Ed25519 · Event Sourcing |
+| [WBS Drive Sync](https://github.com/andreas-politzer/WBS-Google-Drive-Sync) | Desktop tool to sync Google Drive folders locally | Python, customtkinter |
+| [Data Science Survival Walls](https://andreas-politzer.github.io/Data-Science-Survival-Walls/) | Interactive cheat sheets for Statistics, ML & Terminal | HTML · GitHub Pages |
 
 ---
 
