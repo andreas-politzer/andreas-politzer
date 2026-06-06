@@ -63,7 +63,7 @@ Currently developing the skills to make that happen.
   <tr>
     <td><b>IBM & KI-Campus</b></td>
     <td>IBM-Grundlagen der Künstlichen Intelligenz (Maschinelles Lernen, NLP & KI-Ethik)</td>
-    <td><a href="https://moodle.ki-campus.org/mod/customcert/verify_certificate.php?code=3YkhrlaJ5z" target="_blank"><code>Verification: 3YkhrlaJ5z</code></a></td>
+    <td><a href="Micro-Degree Zertifikat - Micro-Degree_Zertifikat.pdf"><code>Verification: 3YkhrlaJ5z</code></a></td>
   </tr>
   <tr>
     <td><b>LinkedIn Learning</b></td>
