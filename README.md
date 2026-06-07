@@ -72,7 +72,7 @@ Currently developing the skills to make that happen.
     <tr>
     <td><b>Microsoft & NetHope</b></td>
     <td>Leveraging AI in Nonprofit Organizations (AI Readiness & Social Impact)</td>
-    <td><a href="credentials/CertificateOfCompletion_Leveraging_AI_in_Your_Nonprofit_Organization_by_Microsoft_and_NetHope.pdf" target="_blank"><code>View PDF Certificate</code></a></td>
+    <td><a href="credentials/CertificateOfCompletion_Leveraging AI in Your Nonprofit Organization by Microsoft and NetHope.pdf" target="_blank"><code>View PDF Certificate</code></a></td>
   </tr>
   </tr>
 </table>
