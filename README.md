@@ -43,9 +43,8 @@ Currently developing the skills to make that happen.
 ---
 
 ## GitHub Stats
-
 <p align="left">
-  <img height="160" src="https://streak-stats.demolab.com?user=andreas-politzer&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=andreas-politzer&theme=tokyonight&hide_border=true&show_icons=true" />
 </p>
 
 ---
