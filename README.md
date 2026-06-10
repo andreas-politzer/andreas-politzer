@@ -80,4 +80,4 @@ Currently developing the skills to make that happen.
 
 ---
 
-hello@velonautics.com
+📬 [hello@velonautics.com](mailto:hello@velonautics.com)
