@@ -63,6 +63,11 @@ Currently developing the skills to make that happen.
 
 <table>
   <tr>
+    <td><b>Probabl</b></td>
+    <td>scikit-learn Associate Practitioner</td>
+    <td><a href="Scikit-learnAssociatePractitionerCertification20261101-20-9nl74y.pdf" target="_blank"><code>View Certificate</code></a></td>
+  </tr>
+  <tr>
     <td><b>IBM & KI-Campus</b></td>
     <td>IBM-Grundlagen der Künstlichen Intelligenz (Maschinelles Lernen, NLP & KI-Ethik)</td>
     <td><a href="credentials/Micro-Degree Zertifikat - Micro-Degree_Zertifikat.pdf"><code>View PDF Certificate</code></a></td>
@@ -71,13 +76,14 @@ Currently developing the skills to make that happen.
     <td><b>LinkedIn Learning</b></td>
     <td>The Data Science of Experimental Design (A/B Testing & Predictive Analytics)</td>
     <td><a href="credentials/Abschlusszertifikat_The Data Science of Experimental Design.pdf" target="_blank"><code>View PDF Certificate</code></a></td>
-    <tr>
+  </tr>
+  <tr>
     <td><b>Microsoft & NetHope</b></td>
     <td>Leveraging AI in Nonprofit Organizations (AI Readiness & Social Impact)</td>
     <td><a href="credentials/CertificateOfCompletion_Leveraging AI in Your Nonprofit Organization by Microsoft and NetHope.pdf" target="_blank"><code>View PDF Certificate</code></a></td>
   </tr>
-  </tr>
 </table>
+
 
 ---
 
