@@ -35,11 +35,11 @@ Currently developing the skills to make that happen.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 📚 **[The Diodati Debtors](https://github.com/andreas-politzer/the-diodati-debtors)** | Community library platform for book clubs featuring lending, reviews, discussions and AI-assisted book summaries. | Reflex · Python · SQLAlchemy · MySQL |
-| [Velonaut Platform](https://github.com/andreas-politzer/velonaut-platform) | Maritime carbon compliance infrastructure — EU ETS & FuelEU Maritime | Python · Ed25519 · Event Sourcing |
-| [Quatermain's Python Quest](https://github.com/andreas-politzer/Quatermain_Python_Quest) | Retro 8-bit arcade desktop quiz for PCEP certification training | Python · customtkinter · PyInstaller |
-| [WBS Drive Sync](https://github.com/andreas-politzer/WBS-Google-Drive-Sync) | Desktop tool to sync Google Drive folders locally | Python, customtkinter |
-| [Data Science Survival Walls](https://andreas-politzer.github.io/Data-Science-Survival-Walls/) | Interactive cheat sheets for Statistics, ML & Terminal | HTML · GitHub Pages |
+| 📧 **[MCP Mail Assistant](https://github.com/andreas-politzer/mcp-mail-assistant)** | A confirmation-first MCP server that enables Claude to draft and send emails through SMTP, with approved recipients, controlled file access, sending limits and audit logging. | Python · MCP · SMTP · Tauri · React · Rust |
+| 🎵 **[Playlist Generator](https://github.com/andreas-politzer/playlist_generator)** | An interactive music discovery platform using unsupervised machine learning to organize song libraries into playlists. Features five clustering algorithms, interactive visualizations, clustering-quality metrics and an automated multi-objective optimizer powered by Optuna. | Python · FastAPI · scikit-learn · React · TypeScript · Optuna |
+| 🌫️ **[London NO₂ Forecasting](https://github.com/andreas-politzer/london-no2-forecasting)** | Time series, played seriously: six forecasting models compared through time-based cross-validation across five London air-quality monitoring stations. | Python · SARIMA · Prophet · scikit-learn · TypeScript |
+| 🤖 **[Vroomfondel](https://github.com/andreas-politzer/vroomfondel)** | An open-source vision for personal AI model creation. Helping non-technical users build specialized models from their own knowledge through a voice-guided assistant and locally running open-source language models. | Python · LLMs · Local AI · TypeScript |
+| 📚 **[Data Science Survival Walls](https://andreas-politzer.github.io/Data-Science-Survival-Walls/)** | High-density, printable A3 reference sheets covering statistics, advanced data science, Git/GitHub, terminal workflows and Python/R visualization frameworks. | HTML · CSS · GitHub Pages |
 
 ---
 
