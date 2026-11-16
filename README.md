@@ -3,9 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&color=007A00&background=00000000&center=false&vCenter=false&repeat=true&width=1200&duration=9000&pause=4000&lines=Hi+I%27m+Andreas.+Data+Scientist+%2F+AI+in+Training.+WBS+Coding+School+Berlin.)](https://git.io/typing-svg)
 
-Interested in the intersection of data, sustainability and social impact — 
-from decarbonizing maritime transport to building AI tools for NGOs. 
-Currently developing the skills to make that happen.
+Data Science & AI student at WBS Coding School (Hamburg). I'm looking for an eight-week internship in applied ML and AI, starting 29 January 2027.
+
+Interested in applied machine learning: deep learning, unsupervised learning, forecasting, and tools that make AI systems traceable and controllable.
 
 ---
 
